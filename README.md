@@ -1,2 +1,2 @@
 # jovian-careers-website
-firstr website amir
+first website amir
